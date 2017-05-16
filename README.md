@@ -1,2 +1,1 @@
-# sphinx
-php test
+# sphinx 学习
